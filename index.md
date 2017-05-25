@@ -1,10 +1,12 @@
-# CPSC 481 - Tutorial [X] - Group [Y]
+# CPSC 481 - Tutorial [3] - Group [1]
 
 ## Project Title
 
 * Title
 * Team Members (names, IDs)
+Niroojen Thambimuthu (10153928)
 * Tutorial Number and TA
+T03 - Sydney Pratte
 
 ## Project Idea
 
